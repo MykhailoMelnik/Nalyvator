@@ -46,7 +46,7 @@ const byte shotPos[] = {29, 50, 71, 89, 109, 129};
 const long time50ml = 5000;
 
 // стартова позиція серво (до -100)
-const long startServoPoint = 100;
+const long startServoPoint = 0;
 
 // Значення корекції для повернення назад
 const long previousShot = 5;
